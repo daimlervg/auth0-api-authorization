@@ -1,6 +1,6 @@
-# Authorize with JWT (RS256)
+# Authorize WebAPI with Auth0
 
-This example shows how to authenticate a user using a JSON Web Token (JWT) which is signed using RS256.
+This example shows how to authenticate a user using Auth0
 
 ## Run the Project
 
